@@ -1,16 +1,9 @@
-# fyazidrb_coffee_shop
+# Coffee Shop APP 
+A simple Coffee Shop Made with Flutter 
+# ScreenShots 
+## Home Page 
+![image](https://github.com/YazidRB/fyazid_coffee_app/assets/75635578/840e1b32-10bb-4258-be88-ea7abd7cf9bd)
 
-A new Flutter project.
+## Card Page
+![image](https://github.com/YazidRB/fyazid_coffee_app/assets/75635578/9c368238-26ff-4c4f-8615-b19eee790c6f)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
